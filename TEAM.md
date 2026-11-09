@@ -101,3 +101,28 @@
 **Điều mình học được từ phần nhóm:**
 
 Tôi nhận ra rằng muốn tạo ra được một sản phẩm thành công, điều đầu tiên cần làm và phải đầu tư nhất là nghiên cứu bài toán phù hợp, tìm hiểu và đưa ra giải pháp sao cho giải quyết đúng được pain của khách hàng, đồng thời phải xem xét, cân nhắc lợi ích và lợi nhuận cho sản phẩm sao cho phù hợp với chiến lược của doanh nghiệp, chứ không chỉ đơn thuần là thấy hay thì triển khai.
+
+### HaQuangVinh-2A202603720
+
+**Phần việc phụ trách:**
+
+- Scan CP1 (7 problem) và soạn CP2 với 3 Problem Card: phòng họp không giấy tờ, tuyển dụng, áp lực tuân thủ thuế.
+- Pitch 2 candidate cá nhân: sàng lọc CV từ nhiều nền tảng và tra cứu thông tin sau cuộc họp bằng AI.
+- Tham gia gom cluster/OST, chọn candidate, research, viết Problem Statement và đánh giá mức can thiệp AI.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Hoàn thiện báo cáo cá nhân CP1–CP2: giữ lại ý #6 (tuyển dụng) và #7 (biên bản họp), bỏ hướng AI pháp lý vì rủi ro sai sót.
+- Phản biện candidate đăng ký tín chỉ: hỏi liệu cần AI hay chỉ cần chỉnh quy trình, từ đó phần đối chiếu điều kiện được chuyển sang xử lý bằng quy tắc.
+- Nhận phản biện về nguyên nhân khó khăn khi đăng ký tín chỉ và làm rõ bottleneck, tách vấn đề quy trình khỏi vấn đề cần AI.
+- Tham gia so sánh candidate theo mức độ nghiêm trọng, tần suất, số người ảnh hưởng, khả năng kiểm chứng và tính khả thi, rồi bình chọn problem cuối: dev/tester mất nhiều thao tác để mở đúng màn và trạng thái app theo Figma khi làm báo cáo ảnh cho khách hàng.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- [Báo cáo cá nhân](report/individual/2A202603720_HaQuangVinh.md): mục 2–3, mục 4, mục 5 (nhật ký dùng AI) và mục 6 (reflection).
+- [Báo cáo nhóm](report/team/group_report.md): [CP4 và CP6].
+
+
+**Điều mình học được từ phần nhóm:**
+
+- Phải xác định bottleneck thật của quy trình trước khi chọn AI. Phần nào xử lý được bằng quy tắc nghiệp vụ thì không cần AI, và mọi con số cần có bằng chứng từ người dùng thật.
