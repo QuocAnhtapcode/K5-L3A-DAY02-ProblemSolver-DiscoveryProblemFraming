@@ -11,24 +11,24 @@
 
 ## Thành viên
 
-| STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
-|---:|---|---|---|---|
-| 1 | Hoàng Quốc Anh | 2A202603707 | Đề xuất 3 candidate: app/Figma, điều tra bug Jira, thủ tục trực tuyến; cung cấp bối cảnh của bài toán được chọn | [QuocAnhtapcode](https://github.com/QuocAnhtapcode) |
-| 2 | Đỗ Thị Thanh Bình | 2A202603709 | Đề xuất 3 candidate: thuế hộ kinh doanh, đăng ký tín chỉ, tìm việc/CV | [ecaep7](https://github.com/ecaep7) |
-| 3 | Lê Gia Hưng | 2A202603713 | Đề xuất candidate kiểm soát hàng tồn kho | [LeGiaHung29805](http://github.com/LeGiaHung29805) |
-| 4 | Hà Quang Vinh | 2A202003720 | Đề xuất 2 candidate: tuyển dụng đa nền tảng, biên bản và hỏi–đáp cuộc họp | [hqvinh2210-stack](https://github.com/hqvinh2210-stack) |
+| STT | Họ và tên         | MSSV        | Vai trò trong nhóm                                                                                              | Tài khoản GitHub                                        |
+| --: | ----------------- | ----------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+|   1 | Hoàng Quốc Anh    | 2A202603707 | Đề xuất 3 candidate: app/Figma, điều tra bug Jira, thủ tục trực tuyến; cung cấp bối cảnh của bài toán được chọn | [QuocAnhtapcode](https://github.com/QuocAnhtapcode)     |
+|   2 | Đỗ Thị Thanh Bình | 2A202603709 | Đề xuất 3 candidate: thuế hộ kinh doanh, đăng ký tín chỉ, tìm việc/CV                                           | [ecaep7](https://github.com/ecaep7)                     |
+|   3 | Lê Gia Hưng       | 2A202603713 | Đề xuất candidate kiểm soát hàng tồn kho                                                                        | [LeGiaHung29805](http://github.com/LeGiaHung29805)      |
+|   4 | Hà Quang Vinh     | 2A202003720 | Đề xuất 2 candidate: tuyển dụng đa nền tảng, biên bản và hỏi–đáp cuộc họp                                       | [hqvinh2210-stack](https://github.com/hqvinh2210-stack) |
 
 ## Phân công theo checkpoint — đề xuất để nhóm xác nhận
 
-| Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
-|---|---|---|---|
-| CP3 — Hội tụ nhóm | Hoàng Quốc Anh | Cả nhóm | Rà lại 9 candidate, cluster, OST và bảng điểm đề xuất |
-| CP4 — Kiểm chứng | Lê Gia Hưng | Hoàng Quốc Anh | Hẹn 2–3 dev/tester ngoài nhóm; ghi snapshot từ buổi hỏi thật |
-| CP4 — Research | Đỗ Thị Thanh Bình | Hà Quang Vinh | Tự kiểm nguồn Figma, Maestro, deep links và điều kiện áp dụng |
-| CP5 — Quy trình trước/sau | Hoàng Quốc Anh | Lê Gia Hưng | Xác nhận luồng mở màn, điều kiện dữ liệu và đo thời gian |
-| CP5 — Problem Statement v0 | Hoàng Quốc Anh | Đỗ Thị Thanh Bình | Rà actor, bottleneck, metric và boundary |
-| CP6 — Mức can thiệp + Problem Statement v1 | Hà Quang Vinh | Hoàng Quốc Anh | So sánh 4 mức, chốt eval và phạm vi v1 |
-| CP6 — Quyết định | Cả nhóm | Cả nhóm | Xác nhận 4 rủi ro, điều kiện pilot và ngưỡng dừng |
+| Checkpoint                                 | Người chính       | Người hỗ trợ      | Sản phẩm                                                      |
+| ------------------------------------------ | ----------------- | ----------------- | ------------------------------------------------------------- |
+| CP3 — Hội tụ nhóm                          | Hoàng Quốc Anh    | Cả nhóm           | Rà lại 9 candidate, cluster, OST và bảng điểm đề xuất         |
+| CP4 — Kiểm chứng                           | Lê Gia Hưng       | Hoàng Quốc Anh    | Hẹn 2–3 dev/tester ngoài nhóm; ghi snapshot từ buổi hỏi thật  |
+| CP4 — Research                             | Đỗ Thị Thanh Bình | Hà Quang Vinh     | Tự kiểm nguồn Figma, Maestro, deep links và điều kiện áp dụng |
+| CP5 — Quy trình trước/sau                  | Hoàng Quốc Anh    | Lê Gia Hưng       | Xác nhận luồng mở màn, điều kiện dữ liệu và đo thời gian      |
+| CP5 — Problem Statement v0                 | Hoàng Quốc Anh    | Đỗ Thị Thanh Bình | Rà actor, bottleneck, metric và boundary                      |
+| CP6 — Mức can thiệp + Problem Statement v1 | Hà Quang Vinh     | Hoàng Quốc Anh    | So sánh 4 mức, chốt eval và phạm vi v1                        |
+| CP6 — Quyết định                           | Cả nhóm           | Cả nhóm           | Xác nhận 4 rủi ro, điều kiện pilot và ngưỡng dừng             |
 
 ## Cá nhân
 
@@ -53,3 +53,27 @@
 **Điều mình học được từ phần nhóm:**
 
 - Cần tách thời gian lịch khỏi giờ công, đo theo màn-trạng thái và kiểm phương án Rule trước khi tăng mức tự động hóa.
+
+### LeGiaHung-2A202603713
+
+**Phần việc phụ trách:**
+
+- Chuẩn bị CP1 với 10 problem và CP2 với 3 Problem Card: thông báo học tập bị trôi, phát hiện/xử lý sự cố website và tồn kho đa kênh.
+- Pitch ba candidate cá nhân trước khi nhóm hội tụ.
+- Phụ trách chính CP4 validation và hỗ trợ CP5 xác nhận quy trình, điều kiện dữ liệu và thời gian từng bước.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Hoàn thiện báo cáo cá nhân CP1–CP2, gồm dấu hiệu thật, metric, phương án không dùng AI và ba quy trình nháp.
+- Thống nhất theo quyết định nhóm chọn candidate app/Figma làm hướng chính cho CP3–CP6.
+- Chuẩn bị khung phỏng vấn dev/tester về lần gần nhất làm báo cáo ảnh, thời gian từng bước, bottleneck, cách xử lý hiện tại và tín hiệu phản bác.
+- Theo dõi lập luận chọn Rule và quyết định Not Yet vì baseline, quyền truy cập và khả năng tái tạo trạng thái chưa được xác nhận đầy đủ.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- [Báo cáo cá nhân](report/individual/2A202603713_LeGiaHung.md): mục 2–3, mục 4 và nhật ký dùng AI.
+- [Báo cáo nhóm](report/team/group_report.md): mục 3 về trạng thái validation, mục 4–5 về quy trình/Problem Statement và mục 6–8 về mức Rule cùng quyết định Not Yet.
+
+**Điều mình học được từ phần nhóm:**
+
+- Tôi nhận ra một bài toán có nhiều bước chưa chắc cần AI. Cần đo baseline, metric, các dữ liệu thực tế, kiểm tra phương án checklist/Rule và xác nhận rủi ro dữ liệu trước khi chọn mức can thiệp cao hơn.
