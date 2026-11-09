@@ -77,3 +77,27 @@
 **Điều mình học được từ phần nhóm:**
 
 - Tôi nhận ra một bài toán có nhiều bước chưa chắc cần AI. Cần đo baseline, metric, các dữ liệu thực tế, kiểm tra phương án checklist/Rule và xác nhận rủi ro dữ liệu trước khi chọn mức can thiệp cao hơn.
+### DoThiThanhBinh-2A202603709
+
+**Phần việc phụ trách:**
+
+- Người chính: bóc tách quy trình hiện tại (as-is) và tương lai (to-be) cho candidate #1 ở CP5.
+- Hỗ trợ: gom cluster và chấm điểm shortlist ở CP3; chia sẻ trải nghiệm và đề xuất giả định cho Assumption Map ở CP4.
+- Đọc và nhận xét: Problem Statement v0/v1, mức can thiệp AI và quyết định ở CP6.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Pitch 3 candidate: hộ kinh doanh kê khai thuế (#4), đăng ký tín chỉ (#5), đối chiếu CV với JD (#6); sửa Job Story tín chỉ sau phản biện của nhóm.
+- Góp ý cách chia 9 candidate thành 3 cluster và giải thích lý do chia; hỗ trợ các thành viên chấm điểm shortlist theo 7 tiêu chí.
+- Chia sẻ trải nghiệm, minh chứng thực tế và đề xuất ý tưởng cho các giả định trong Assumption Map.
+- Viết quy trình hiện tại 6 bước kèm actor, input, output, thời gian và bottleneck; quy trình tương lai có điểm kiểm của con người, boundary, phương án quay về; bảng before/after.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- `group_report.md` mục 2.1 (candidate #4–#6), mục 2.2 (cluster), mục 2.4 (bảng chấm điểm).
+- `group_report.md` mục 3.1 (Assumption Map).
+- `group_report.md` mục 4.1, 4.2, 4.3 (quy trình trước/sau và before/after).
+
+**Điều mình học được từ phần nhóm:**
+
+Tôi nhận ra rằng muốn tạo ra được một sản phẩm thành công, điều đầu tiên cần làm và phải đầu tư nhất là nghiên cứu bài toán phù hợp, tìm hiểu và đưa ra giải pháp sao cho giải quyết đúng được pain của khách hàng, đồng thời phải xem xét, cân nhắc lợi ích và lợi nhuận cho sản phẩm sao cho phù hợp với chiến lược của doanh nghiệp, chứ không chỉ đơn thuần là thấy hay thì triển khai.
